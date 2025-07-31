@@ -1154,6 +1154,6 @@ st.markdown("""
         <span style="color: #4CAF50; font-weight: 600;">🌍 Multi-state Coverage</span>
         <span style="color: #4CAF50; font-weight: 600;">📊 Advanced ML</span>
     </div>
-    <p style="color: #888; font-size: 0.9rem; margin: 0;">Built with ❤️ from Kritin | Powered by Random Forest Machine Learning</p>
+    <p style="color: #888; font-size: 0.9rem; margin: 0;">Built with ❤️ from Mayank | Powered by Random Forest Machine Learning</p>
 </div>
 """, unsafe_allow_html=True)
